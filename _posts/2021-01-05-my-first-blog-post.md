@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2020-01-05
+---
 Hi there! 
 Welcome to my first blog post and Happy New Year. I'm super excited to share with you what I'm learning. 
 I've been working on my Github blog for the last week. It took longer than I expected while I was under the weather. I'm back and feeling much better!
