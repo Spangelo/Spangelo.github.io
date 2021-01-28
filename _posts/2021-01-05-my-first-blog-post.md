@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2020-01-05
+title: "My First Blog Post"
+date: 2021-01-05
 ---
 Hi there! 
 Welcome to my first blog post and Happy New Year. I'm super excited to share with you what I'm learning. 
